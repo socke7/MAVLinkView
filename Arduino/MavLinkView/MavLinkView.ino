@@ -1,3 +1,9 @@
+/*
+MAVLinkView - An Arduino sketch for showing MAVLink telemetry data
+https://github.com/socke7/MAVLinkView
+Copyright (c) 2021 socke7
+*/
+
 #include <Arduino.h>
 #include <EEPROM.h>
 #include "haversine.h"
